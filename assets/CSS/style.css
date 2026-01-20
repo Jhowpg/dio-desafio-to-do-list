@@ -117,7 +117,7 @@ header h1 {
     word-break: break-all;
 }
 
-.todo-item.completed span {
+.completed span {
     text-decoration: line-through;
     color: #bbb;
 }
